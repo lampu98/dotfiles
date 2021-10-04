@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andrea.lampugnani02@gmail.com
+	name = Andrea Lampugnani
